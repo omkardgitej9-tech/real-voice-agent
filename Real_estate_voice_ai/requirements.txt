@@ -1,0 +1,11 @@
+pyaudio
+numpy
+torch
+silero-vad
+faster-whisper
+piper-tts
+pydub
+python-dotenv
+google-genai
+fastapi 
+uvicorn
